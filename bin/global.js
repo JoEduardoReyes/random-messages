@@ -1,4 +1,4 @@
 #!/usr/bin/env node
-import { randomMsg } from "../src/index.js";
+let random = require("../src/index.js");
 
-randomMsg;
+random.randomMsg();

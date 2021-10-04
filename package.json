@@ -1,5 +1,5 @@
 {
-  "name": "random-messages",
+  "name": "random-messages-joeduardoreyes",
   "version": "1.0.0",
   "description": "random de mensajes del curso de platzi",
   "main": "src/index.js",
@@ -7,11 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "javascript, node, npm"
+    "type": "git"
   },
   "keywords": [
-    "MIT"
+    "Javascript, node, npm"
   ],
   "author": "",
   "license": "MIT",

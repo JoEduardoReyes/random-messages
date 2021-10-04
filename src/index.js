@@ -5,4 +5,4 @@ const randomMsg = () => {
   console.log(message);
 };
 
-export default { randomMsg };
+module.exports = { randomMsg };
